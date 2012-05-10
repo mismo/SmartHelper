@@ -1,5 +1,5 @@
 var t = this;
-describe('#Smart', function() {
+describe('#SmartHelper', function() {
 	var S = (function() {
 		// TODO: CommonJS
 		return t.S;
